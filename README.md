@@ -2,9 +2,9 @@
 
 - No ubuntu utilizando IDE Geany
 
-- No widnows utilizo o VSCode
+- No windows utilizo o VSCode
 
-* Baixar MinGw e usar comandos abaixo para rodar o programa
+-- Baixar MinGw e usar comandos abaixo para rodar o programa
 
 ```
 gcc .\temperature_conversion.c
