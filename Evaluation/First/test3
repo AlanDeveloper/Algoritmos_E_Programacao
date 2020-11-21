@@ -1,0 +1,19 @@
+Algoritmo
+    Declare n1, n2, n3, n4, n5, media Numerico
+    Declare a = 2.5, b = 2, c = 1 Numerico
+
+    Escreva "Nota da primeira avaliação teórica"
+    Leia n1
+    Escreva "Nota da segunda avaliação teórica"
+    Leia n2
+    Escreva "Nota da primeira avaliação prática"
+    Leia n3
+    Escreva "Nota da segunda avaliação prática"
+    Leia n4
+    Escreva "Nota quantitativa"
+    Leia n5
+
+    media = ((n1/a + n2/a + n3/b + n4/b + n5/c) / 5) * 10;
+
+    Escreva media
+fim_algoritmo
